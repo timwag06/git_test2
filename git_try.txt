@@ -1,2 +1,1 @@
-git is great
-line2
+line1
